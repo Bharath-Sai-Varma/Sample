@@ -1,1 +1,1 @@
-select * from teahcers;
+select * from teachers;
